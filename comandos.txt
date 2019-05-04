@@ -1,0 +1,9 @@
+  968  npm init -y
+  972  npm i express mongodb
+  977  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+  978  npm install --save-dev @babel/node
+  980  npm run build
+  982  npm i nodemon -D
+  983  npm run dev
+  984  npm i @babel/polyfill
+  986 sudo service mongod start
